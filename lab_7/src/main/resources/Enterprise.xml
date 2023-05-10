@@ -1,0 +1,27 @@
+<enterprises>
+    <enterprise>
+        <name>Enterprise #1</name>
+        <employees>450</employees>
+        <equipment>267</equipment>
+    </enterprise>
+    <enterprise>
+        <name>Enterprise #2</name>
+        <employees>720</employees>
+        <equipment>415</equipment>
+    </enterprise>
+    <enterprise>
+        <name>Enterprise #3</name>
+        <employees>1100</employees>
+        <equipment>612</equipment>
+    </enterprise>
+    <enterprise>
+        <name>Enterprise #4</name>
+        <employees>280</employees>
+        <equipment>155</equipment>
+    </enterprise>
+    <enterprise>
+        <name>Enterprise #5</name>
+        <employees>890</employees>
+        <equipment>520</equipment>
+    </enterprise>
+</enterprises>
